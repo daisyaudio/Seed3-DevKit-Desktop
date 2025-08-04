@@ -30,7 +30,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Seed3-DevKit-Eurorack_2.kicad_sch"
+		(property "Sheetfile" "Seed3-DevKit-Desktop_2.kicad_sch"
 			(at 76.2 29.7946 0)
 			(effects
 				(font
@@ -40,51 +40,9 @@
 			)
 		)
 		(instances
-			(project "Seed3-DevKit-Eurorack-Rev1"
+			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 177.8 25.4)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "a3979ae8-4ed5-41d9-a6ef-87d859172585")
-		(property "Sheetname" "Power"
-			(at 177.8 24.6884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Seed3-DevKit-Eurorack_4.kicad_sch"
-			(at 177.8 29.7946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Seed3-DevKit-Eurorack-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0"
-					(page "4")
 				)
 			)
 		)
@@ -114,7 +72,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Seed3-DevKit-Eurorack_1.kicad_sch"
+		(property "Sheetfile" "Seed3-DevKit-Desktop_1.kicad_sch"
 			(at 25.4 29.7946 0)
 			(effects
 				(font
@@ -124,7 +82,7 @@
 			)
 		)
 		(instances
-			(project "Seed3-DevKit-Eurorack-Rev1"
+			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0"
 					(page "1")
 				)
