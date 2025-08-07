@@ -52754,28 +52754,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "7acdd200-840a-4add-8937-d21b390029c8")
+			(uuid "7acdd200-840a-4add-8937-d21b390029c9")
 		)
 		(pin "5"
-			(uuid "749d9204-7283-4a98-9710-eb6b064c590f")
+			(uuid "749d9204-7283-4a98-9710-eb6b064c5910")
 		)
 		(pin "2"
-			(uuid "05a75c34-3f0c-4d98-af6d-3f3d0c55cc26")
+			(uuid "05a75c34-3f0c-4d98-af6d-3f3d0c55cc27")
 		)
 		(pin "3"
-			(uuid "307c9051-d39b-4cf5-b333-ecac40662776")
+			(uuid "307c9051-d39b-4cf5-b333-ecac40662777")
 		)
 		(pin "8"
-			(uuid "76ebad7b-05fc-4d2a-906c-91bf860b01f1")
+			(uuid "76ebad7b-05fc-4d2a-906c-91bf860b01f2")
 		)
 		(pin "6"
-			(uuid "e03e0981-7088-4c6c-9faf-c436075fd299")
+			(uuid "e03e0981-7088-4c6c-9faf-c436075fd29a")
 		)
 		(pin "1"
-			(uuid "4e82ab12-5c1d-41bd-950e-adbb5154928e")
+			(uuid "4e82ab12-5c1d-41bd-950e-adbb5154928f")
 		)
 		(pin "7"
-			(uuid "0e0141a2-a815-43b0-85dd-d0fdd26a55ef")
+			(uuid "0e0141a2-a815-43b0-85dd-d0fdd26a55f0")
 		)
 		(instances
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
@@ -52855,7 +52855,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:MCP6002-xSN")
 		(at 177.8 168.91 0)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -52933,7 +52933,7 @@
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008"
 					(reference "U6")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -52941,7 +52941,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:MCP6002-xSN")
 		(at 177.8 135.89 0)
-		(unit 2)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -53018,7 +53018,7 @@
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008"
 					(reference "U6")
-					(unit 2)
+					(unit 1)
 				)
 			)
 		)
@@ -55540,28 +55540,28 @@
 			)
 		)
 		(pin "4"
-			(uuid "7acdd200-840a-4add-8937-d21b390029c8")
+			(uuid "7acdd200-840a-4add-8937-d21b390029cf")
 		)
 		(pin "5"
-			(uuid "749d9204-7283-4a98-9710-eb6b064c590f")
+			(uuid "749d9204-7283-4a98-9710-eb6b064c5914")
 		)
 		(pin "2"
-			(uuid "05a75c34-3f0c-4d98-af6d-3f3d0c55cc26")
+			(uuid "05a75c34-3f0c-4d98-af6d-3f3d0c55cc28")
 		)
 		(pin "3"
-			(uuid "307c9051-d39b-4cf5-b333-ecac40662776")
+			(uuid "307c9051-d39b-4cf5-b333-ecac40662778")
 		)
 		(pin "8"
-			(uuid "76ebad7b-05fc-4d2a-906c-91bf860b01f1")
+			(uuid "76ebad7b-05fc-4d2a-906c-91bf860b01f8")
 		)
 		(pin "6"
-			(uuid "e03e0981-7088-4c6c-9faf-c436075fd299")
+			(uuid "e03e0981-7088-4c6c-9faf-c436075fd29e")
 		)
 		(pin "1"
-			(uuid "4e82ab12-5c1d-41bd-950e-adbb5154928e")
+			(uuid "4e82ab12-5c1d-41bd-950e-adbb51549290")
 		)
 		(pin "7"
-			(uuid "0e0141a2-a815-43b0-85dd-d0fdd26a55ef")
+			(uuid "0e0141a2-a815-43b0-85dd-d0fdd26a55f4")
 		)
 		(instances
 			(project "ES-Seed3-DevKit-Desktop-Rev1"

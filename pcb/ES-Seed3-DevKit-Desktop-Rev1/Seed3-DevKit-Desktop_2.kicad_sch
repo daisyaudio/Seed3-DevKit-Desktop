@@ -11236,7 +11236,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "022a69be-4dc1-486d-be08-ef6ed6d6d74c")
-		(property "Reference" "S15"
+		(property "Reference" "S12"
 			(at 184.15 148.59 0)
 			(effects
 				(font
@@ -11296,7 +11296,7 @@
 		(instances
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
-					(reference "S15")
+					(reference "S12")
 					(unit 1)
 				)
 			)
@@ -14913,7 +14913,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4be798c8-e495-4925-abc2-b48d2ad1950c")
-		(property "Reference" "S13"
+		(property "Reference" "S11"
 			(at 146.05 148.59 0)
 			(effects
 				(font
@@ -14973,7 +14973,7 @@
 		(instances
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
-					(reference "S13")
+					(reference "S11")
 					(unit 1)
 				)
 			)
@@ -15465,7 +15465,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "51fc6909-a218-43a5-a4aa-d6eeb4739534")
-		(property "Reference" "S11"
+		(property "Reference" "S10"
 			(at 106.68 148.59 0)
 			(effects
 				(font
@@ -15525,7 +15525,7 @@
 		(instances
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
-					(reference "S11")
+					(reference "S10")
 					(unit 1)
 				)
 			)
@@ -17684,7 +17684,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "80d60470-a02a-4a95-839f-9c6b27b1c35c")
-		(property "Reference" "S10"
+		(property "Reference" "S13"
 			(at 68.58 181.61 0)
 			(effects
 				(font
@@ -17744,7 +17744,7 @@
 		(instances
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
-					(reference "S10")
+					(reference "S13")
 					(unit 1)
 				)
 			)
@@ -17903,7 +17903,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "83f5e371-9ada-44bb-be08-2339bb3eea88")
-		(property "Reference" "S12"
+		(property "Reference" "S14"
 			(at 106.68 181.61 0)
 			(effects
 				(font
@@ -17963,7 +17963,7 @@
 		(instances
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
-					(reference "S12")
+					(reference "S14")
 					(unit 1)
 				)
 			)
@@ -22430,7 +22430,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e677f01e-550f-4d78-bef6-fb4136d9da65")
-		(property "Reference" "S14"
+		(property "Reference" "S15"
 			(at 146.05 181.61 0)
 			(effects
 				(font
@@ -22490,7 +22490,7 @@
 		(instances
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
-					(reference "S14")
+					(reference "S15")
 					(unit 1)
 				)
 			)
