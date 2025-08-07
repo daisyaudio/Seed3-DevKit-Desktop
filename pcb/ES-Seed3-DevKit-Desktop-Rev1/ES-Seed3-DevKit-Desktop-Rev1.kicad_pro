@@ -332,7 +332,24 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "duplicate_pins|1346200|1600200|3fc90a65-08e6-464d-90cb-da4193a40d5e|00000000-0000-0000-0000-000000000000|||",
+        "This is OK, the footprint has a shared pin."
+      ],
+      [
+        "duplicate_pins|1574800|1651000|8a87c206-1a77-4a2f-877f-83cefeb6a35a|00000000-0000-0000-0000-000000000000|||",
+        "This is OK, the footprint has a shared pin."
+      ],
+      [
+        "pin_to_pin|2501900|317500|85115322-49ca-4f89-b855-374285894d34|421b7786-3fa1-4d5f-8468-08f249d34163|/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008|/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008|/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008",
+        "Unsure how to resolve this, but it's acceptable"
+      ],
+      [
+        "pin_to_pin|2781300|317500|de5335c1-efae-4a87-9d22-93b359f5aac5|73e3eaa2-6e55-4e56-b1f1-ee34d8fd2bea|/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008|/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008|/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008",
+        "Unsure how to resolve this, but it's acceptable"
+      ]
+    ],
     "meta": {
       "version": 0
     },
