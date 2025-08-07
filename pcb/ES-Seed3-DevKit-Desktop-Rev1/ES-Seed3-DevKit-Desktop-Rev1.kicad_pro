@@ -764,6 +764,10 @@
     [
       "0fd2c796-fc28-4dbb-a19a-be32e6f577a0",
       "Peripherals"
+    ],
+    [
+      "ed6ab68d-91fc-4239-8e2e-995ce43ca93d",
+      "Audio"
     ]
   ],
   "text_variables": {}

@@ -89,6 +89,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 134.62 24.13)
+		(size 27.94 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ed6ab68d-91fc-4239-8e2e-995ce43ca93d")
+		(property "Sheetname" "Audio"
+			(at 134.62 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "audio.kicad_sch"
+			(at 134.62 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ES-Seed3-DevKit-Desktop-Rev1"
+				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0"
+					(page "4")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
