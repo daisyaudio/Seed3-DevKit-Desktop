@@ -16456,7 +16456,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "parts-for-kicad:TOGGLE_SILK_PIP3"
+		(property "Footprint" "Electrosmith-Interface:TOGGLE_ON-ON"
 			(at 43.18 33.02 0)
 			(effects
 				(font
