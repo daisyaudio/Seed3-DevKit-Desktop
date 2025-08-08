@@ -9126,7 +9126,7 @@
 				)
 			)
 		)
-		(property "Value" "AudioJack3_Switch"
+		(property "Value" "AudioJack3_Switch_HEADPHONE"
 			(at 266.065 173.99 0)
 			(effects
 				(font
