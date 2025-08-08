@@ -4758,6 +4758,12 @@
 		(uuid "e59056aa-1497-49bd-a394-3408a780d1dd")
 	)
 	(junction
+		(at 294.64 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e5e5da44-6877-44a6-a986-0613c970f454")
+	)
+	(junction
 		(at 97.79 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5727,6 +5733,16 @@
 		)
 		(uuid "2f0a9b04-7a29-4ccc-8629-10d629862a78")
 	)
+	(wire
+		(pts
+			(xy 294.64 129.54) (xy 294.64 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f51634c-d35e-4560-a0c9-a14811d0d33e")
+	)
 	(polyline
 		(pts
 			(xy 391.16 7.62) (xy 393.7 7.62)
@@ -6056,6 +6072,16 @@
 			(type solid)
 		)
 		(uuid "3f899cee-efec-4690-9360-26ec782fac61")
+	)
+	(wire
+		(pts
+			(xy 304.8 129.54) (xy 294.64 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ff44d87-4d2c-411d-a746-c047e1682281")
 	)
 	(wire
 		(pts
@@ -6689,6 +6715,16 @@
 	)
 	(wire
 		(pts
+			(xy 312.42 116.84) (xy 304.8 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "604a3bf3-a352-4dd8-a3db-7f52fc50465e")
+	)
+	(wire
+		(pts
 			(xy 152.4 270.51) (xy 152.4 274.32)
 		)
 		(stroke
@@ -6956,6 +6992,16 @@
 			(type default)
 		)
 		(uuid "6a0afcda-73d6-428f-8444-b5301bdef9e7")
+	)
+	(wire
+		(pts
+			(xy 304.8 116.84) (xy 304.8 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a9a2f49-6dd5-4509-9104-d50751b975bb")
 	)
 	(wire
 		(pts
@@ -7739,6 +7785,16 @@
 	)
 	(wire
 		(pts
+			(xy 312.42 119.38) (xy 312.42 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99084359-3dfa-4f91-b4f5-7e2164e775c5")
+	)
+	(wire
+		(pts
 			(xy 312.42 147.32) (xy 317.5 147.32)
 		)
 		(stroke
@@ -8006,6 +8062,16 @@
 			(type default)
 		)
 		(uuid "a4fc6bf0-b2c4-4c0a-b0b7-b41832308313")
+	)
+	(wire
+		(pts
+			(xy 312.42 127) (xy 312.42 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a59e2293-a1be-4410-927a-eaa2bfd16de1")
 	)
 	(wire
 		(pts
@@ -8449,7 +8515,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 127) (xy 294.64 132.08)
+			(xy 294.64 127) (xy 294.64 129.54)
 		)
 		(stroke
 			(width 0)
@@ -10351,7 +10417,7 @@
 			)
 		)
 	)
-	(global_label "GPIO_GATEIN_1"
+	(global_label "GPIO_GATEIN_2"
 		(shape input)
 		(at 403.86 260.35 0)
 		(fields_autoplaced yes)
@@ -12962,6 +13028,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Seed3-Pedal-DevKit-Converted-eagle-import:Electrosmith-Passives_C-EUC0402")
+		(at 312.42 124.46 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "292bdaee-a0d5-4df3-8ee6-7f81b57dd047")
+		(property "Reference" "C32"
+			(at 307.721 120.904 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100NF"
+			(at 315.341 118.364 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 312.42 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 312.42 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5e4a06eb-19e2-4fcb-adc1-9619157570d0")
+		)
+		(pin "2"
+			(uuid "19a89e2b-f208-4d89-af76-b4ed4c01ac4c")
+		)
+		(instances
+			(project "ES-Seed3-DevKit-Desktop-Rev1"
+				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
+					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Seed3-Pedal-DevKit-Converted-eagle-import:Electrosmith-Passives_R-US_R0603")
 		(at 393.7 186.69 180)
 		(unit 1)
@@ -13025,6 +13160,72 @@
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
 					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 312.42 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2af6042e-934d-4186-afae-88b6b6680419")
+		(property "Reference" "#GND089"
+			(at 312.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 309.88 134.366 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 312.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 312.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fdbf0efa-578e-4a31-b83e-21c954d43b69")
+		)
+		(instances
+			(project "ES-Seed3-DevKit-Desktop-Rev1"
+				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/0fd2c796-fc28-4dbb-a19a-be32e6f577a0"
+					(reference "#GND089")
 					(unit 1)
 				)
 			)

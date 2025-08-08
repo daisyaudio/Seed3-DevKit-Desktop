@@ -2344,7 +2344,7 @@
 	)
 	(text "Gain is set to target +4dBu (maximum)\nobviously this does not make it a pro-line-level device that way..\nwe'd need to probably have a certain amount of headroom.\nIf, instead we look at this as a -10dBV device, then we have\n~14dB of headroom with these values.\n\nGin=0.814 (Rin=10k, Rfb=16k)\nGout=1.228 (Rin=10k, Rfb=24k)\n\nAlternatively we can go closer to the PCM3060's \"2Vrms\" reference and just do:\nGin=0.5, Gout=2 :shrug:\n\nFor now, I've implemented the left channel of audio with less atten/gain."
 		(exclude_from_sim no)
-		(at 4.318 167.132 0)
+		(at 5.08 170.942 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2353,25 +2353,15 @@
 		)
 		(uuid "447bf6be-8295-40ac-9d1d-bc8dee2d54e6")
 	)
-	(text "TODO: Update values for gain of 2"
+	(text "I updated these to be gain of 2.\nHowever, I'm not really sure how the math works out for the other two values..\nSo, I may just need to kludge those a a bit IRL.\n(This can also be reworked to be our normal basic filter)"
 		(exclude_from_sim no)
-		(at 162.814 22.098 0)
+		(at 250.444 62.484 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "7d6e58ff-da08-42de-8a8c-478af2ab614a")
-	)
-	(text "TODO: Update values for gain of 2"
-		(exclude_from_sim no)
-		(at 163.322 78.486 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "bd2383ff-23b0-4d96-a645-5dab41e53520")
+		(uuid "6bf3a77c-3de9-44ab-9cda-9a8904547113")
 	)
 	(text "AUDIO I/O"
 		(exclude_from_sim no)
@@ -5147,7 +5137,7 @@
 				)
 			)
 		)
-		(property "Value" "7K5"
+		(property "Value" "20K"
 			(at 196.85 66.04 90)
 			(effects
 				(font
@@ -5675,7 +5665,7 @@
 				)
 			)
 		)
-		(property "Value" "7K5"
+		(property "Value" "20K"
 			(at 196.85 8.89 90)
 			(effects
 				(font
