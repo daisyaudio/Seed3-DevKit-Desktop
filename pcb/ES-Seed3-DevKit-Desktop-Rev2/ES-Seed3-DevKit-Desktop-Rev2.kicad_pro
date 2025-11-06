@@ -60,26 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|219020000|120460000|b361049e-a7fc-440d-bfe0-43cf8dc6540c|e784a7a9-f6c2-4478-8445-4fd55d1f7470",
-          "not sure how to address this here, but its fine."
-        ],
-        [
-          "clearance|219420000|124760000|9a260c62-5b11-4f4f-98e3-82e84c2d5f85|4a4c15f3-d386-4fc8-98db-8c2b5a766631",
-          "not sure how to address this here, but its fine."
-        ],
-        [
-          "clearance|220070000|124760000|33163a47-c6f1-4383-8200-efcb4485414e|9a260c62-5b11-4f4f-98e3-82e84c2d5f85",
-          "not sure how to address this here, but its fine."
-        ],
-        [
-          "clearance|220320000|120460000|1985fb67-5044-46aa-a7e8-52d4aaf72709|03fb166d-e939-456a-97cd-9ce98fa9dc52",
-          "not sure how to address this here, but its fine."
-        ],
-        [
-          "clearance|220720000|124760000|094696f4-7df7-4cde-8251-4fa1a07faa0a|33163a47-c6f1-4383-8200-efcb4485414e",
-          "not sure how to address this here, but its fine."
-        ],
-        [
           "courtyards_overlap|55975000|122633473|1c688b6e-c1e8-472f-a05f-6e1e5ce12446|4d936c48-8b85-44b4-bd0b-a2f73d28387e",
           "safely under seed"
         ],
@@ -100,60 +80,8 @@
           "safely under seed"
         ],
         [
-          "hole_clearance|56500000|82190000|4f5c7dde-6852-466e-93b1-11587e9445fa|7e739ad8-3828-4644-b0bc-684e58eb3a89",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "hole_clearance|56500000|87990000|312f6ad6-ba1f-4828-a32a-598048aa937b|280af169-46b4-46b2-a42d-4736a126e249",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
           "net_conflict|223600000|146200000|78912d18-a492-4db6-a2d8-ec5959fc9f4c|00000000-0000-0000-0000-000000000000",
           "We don't need that pin, I just wanted to keep the symbols consistent."
-        ],
-        [
-          "solder_mask_bridge|56500000|82390000|8d73b00e-34b1-4b4f-9499-0b27bb68012d|4f5c7dde-6852-466e-93b1-11587e9445fa",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|83190000|9ac91368-ceee-4f09-b6cd-8837e3c9842e|8d73b00e-34b1-4b4f-9499-0b27bb68012d",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|83490000|9ac91368-ceee-4f09-b6cd-8837e3c9842e|9937b950-92fc-45fa-890d-36c76e773ff0",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|84190000|276cb0e7-e73f-46f2-8b20-9f92fb348bc8|9937b950-92fc-45fa-890d-36c76e773ff0",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|84490000|276cb0e7-e73f-46f2-8b20-9f92fb348bc8|1e12be03-772a-42d6-a5fb-e864f74a7eff",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|85190000|62460af5-ea05-42c7-9e22-db4f64f9af97|1e12be03-772a-42d6-a5fb-e864f74a7eff",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|85690000|674c8799-b4a2-4f45-8595-984e33379446|62460af5-ea05-42c7-9e22-db4f64f9af97",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|85990000|674c8799-b4a2-4f45-8595-984e33379446|119b0dab-4a51-4ad9-88f4-f9a9f7588784",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|86690000|60ab4db2-b685-4246-859c-e7bff5116483|119b0dab-4a51-4ad9-88f4-f9a9f7588784",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|86990000|60ab4db2-b685-4246-859c-e7bff5116483|42644f88-e80b-412a-814d-2ca660f36128",
-          "shens approves -- this is the mfr footprint"
-        ],
-        [
-          "solder_mask_bridge|56500000|87790000|42644f88-e80b-412a-814d-2ca660f36128|312f6ad6-ba1f-4828-a32a-598048aa937b",
-          "shens approves -- this is the mfr footprint"
         ],
         [
           "starved_thermal|57075000|81890000|46b92e53-7214-4c33-864d-d5688af40779|4f5c7dde-6852-466e-93b1-11587e9445fa|F.Cu",
