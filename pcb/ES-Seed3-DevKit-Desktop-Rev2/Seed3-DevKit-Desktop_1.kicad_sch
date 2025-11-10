@@ -43939,6 +43939,68 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "shnsly:QR-Code"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board no)
+			(property "Reference" "QR"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "QR-Code_0_1"
+				(rectangle
+					(start -2.54 3.81)
+					(end 2.54 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "This will drop a fair amount of voltage\nMeasured at ~7.86V on a similar circuit on Pedal Dev Kit Rev2"
 		(exclude_from_sim no)
@@ -52015,6 +52077,70 @@
 			(project ""
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "shnsly:QR-Code")
+		(at 392.43 19.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e90d718-9565-4b75-a366-387b2677fd5b")
+		(property "Reference" "QR1"
+			(at 396.24 15.8749 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 396.24 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "shnsly:qr-seed3-desktop-redirect-medium"
+			(at 392.43 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 392.43 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 392.43 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/b2297a72-db37-46bb-8b2e-2b8f47454008"
+					(reference "QR1")
 					(unit 1)
 				)
 			)
