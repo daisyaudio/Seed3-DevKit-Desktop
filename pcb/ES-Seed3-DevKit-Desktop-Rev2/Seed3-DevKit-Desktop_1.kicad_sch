@@ -58258,7 +58258,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4021"
+		(property "Value" "CD4021BM96"
 			(at 305.6733 241.3 0)
 			(effects
 				(font
@@ -59664,7 +59664,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4021"
+		(property "Value" "CD4021BM96"
 			(at 252.3333 241.3 0)
 			(effects
 				(font

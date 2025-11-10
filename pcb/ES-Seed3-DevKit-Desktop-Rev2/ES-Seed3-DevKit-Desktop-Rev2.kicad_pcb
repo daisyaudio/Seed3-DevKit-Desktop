@@ -8301,7 +8301,7 @@
 				)
 			)
 		)
-		(property "Value" "4021"
+		(property "Value" "CD4021BM96"
 			(at 0 5.9 0)
 			(layer "F.Fab")
 			(uuid "732f3753-8f9e-46aa-b9a3-0bcbaf2a44c5")
@@ -11149,7 +11149,7 @@
 				)
 			)
 		)
-		(property "Value" "4021"
+		(property "Value" "CD4021BM96"
 			(at 0 5.9 0)
 			(layer "F.Fab")
 			(uuid "aef3cd86-9f5e-49a9-9d7d-29bfbd6064ab")
