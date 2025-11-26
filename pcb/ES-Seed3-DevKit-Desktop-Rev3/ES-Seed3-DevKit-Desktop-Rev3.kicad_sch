@@ -40,7 +40,7 @@
 			)
 		)
 		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev2"
+			(project "ES-Seed3-DevKit-Desktop-Rev3"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0"
 					(page "2")
 				)
@@ -82,7 +82,7 @@
 			)
 		)
 		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev2"
+			(project "ES-Seed3-DevKit-Desktop-Rev3"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0"
 					(page "1")
 				)
@@ -124,7 +124,7 @@
 			)
 		)
 		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev2"
+			(project "ES-Seed3-DevKit-Desktop-Rev3"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0"
 					(page "4")
 				)
