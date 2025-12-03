@@ -1024,156 +1024,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:D_Schottky"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "D_Schottky"
-				(at 0 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Schottky diode"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "diode Schottky"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "D_Schottky_0_1"
-				(polyline
-					(pts
-						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "D_Schottky_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:Opamp_Dual"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2078,168 +1928,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Seed3-Pedal-DevKit-Converted-eagle-import:+3V3_A"
-			(power)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#SUPPLY"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" ""
-				(at -1.905 5.715 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "+3V3_A_1_0"
-				(polyline
-					(pts
-						(xy -0.381 4.318) (xy 0.381 4.318)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 3.1115) (xy 0.127 3.1115)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.937) (xy 0 4.699)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 3.81)
-					(radius 1.27)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 3.81)
-					(radius 1.27)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.556) (xy -0.254 2.921)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 3.556) (xy 0.254 2.921)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_in line
-					(at 0 0 90)
-					(length 2.54)
-					(name "+3V3_A"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -2424,12 +2112,6 @@
 		(uuid "21cf1686-2f5c-4762-8ba7-40cacc2d8241")
 	)
 	(junction
-		(at 38.1 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22d5f725-4233-4573-8646-803bf240400c")
-	)
-	(junction
 		(at 33.02 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2440,12 +2122,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "300ace5b-8d14-4420-81c8-439ad34ceb80")
-	)
-	(junction
-		(at 102.87 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4936a8e2-e8c5-4d70-a45c-d1c89e662583")
 	)
 	(junction
 		(at 245.11 91.44)
@@ -2494,12 +2170,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7edd621b-6ad2-411c-8b28-e6e6ffad4d21")
-	)
-	(junction
-		(at 38.1 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "802175e7-f7be-49f1-9332-df65e0a4f9e0")
 	)
 	(junction
 		(at 172.72 88.9)
@@ -2590,12 +2260,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb22c87a-712f-4c8c-a380-c6b418663447")
-	)
-	(junction
-		(at 102.87 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fbd33edf-7abc-4590-a4a1-1a9755727427")
 	)
 	(no_connect
 		(at 257.81 88.9)
@@ -2717,16 +2381,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 116.84) (xy 38.1 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06b0a695-533b-4e57-b679-2eddb99a312d")
-	)
-	(wire
-		(pts
 			(xy 172.72 44.45) (xy 172.72 49.53)
 		)
 		(stroke
@@ -2817,16 +2471,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 63.5) (xy 40.64 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "121e8d33-7729-4370-a630-e7a3b60d90a3")
-	)
-	(wire
-		(pts
 			(xy 154.94 152.4) (xy 157.48 152.4)
 		)
 		(stroke
@@ -2887,7 +2531,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 116.84) (xy 38.1 116.84)
+			(xy 35.56 116.84) (xy 40.64 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2944,16 +2588,6 @@
 			(type default)
 		)
 		(uuid "230c190f-c10f-4a3b-b44f-b02e75dd4982")
-	)
-	(wire
-		(pts
-			(xy 102.87 119.38) (xy 109.22 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25017309-a8c1-4db7-a1d4-6114f05be41c")
 	)
 	(wire
 		(pts
@@ -3227,7 +2861,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 119.38) (xy 102.87 119.38)
+			(xy 99.06 119.38) (xy 109.22 119.38)
 		)
 		(stroke
 			(width 0)
@@ -3337,16 +2971,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 63.5) (xy 102.87 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4bae38ec-02f0-4dba-a0cd-3eb92e6dd50d")
-	)
-	(wire
-		(pts
 			(xy 57.15 29.21) (xy 39.37 29.21)
 		)
 		(stroke
@@ -3367,16 +2991,6 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 73.66) (xy 38.1 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5353312d-53d2-4f68-80d6-ed6a66f17bac")
-	)
-	(wire
-		(pts
 			(xy 199.39 80.01) (xy 199.39 88.9)
 		)
 		(stroke
@@ -3384,16 +2998,6 @@
 			(type default)
 		)
 		(uuid "55ec7e91-089f-4ba8-a1be-0764f53e6eb0")
-	)
-	(wire
-		(pts
-			(xy 102.87 66.04) (xy 109.22 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "565cab15-4594-48ad-86bb-b9aa031a164b")
 	)
 	(wire
 		(pts
@@ -3517,16 +3121,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 106.68) (xy 102.87 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67e29a3c-e6ba-45fb-99a4-cecf189755ee")
-	)
-	(wire
-		(pts
 			(xy 73.66 110.49) (xy 64.77 110.49)
 		)
 		(stroke
@@ -3647,26 +3241,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 66.04) (xy 102.87 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a8e8953-6d82-4c8c-86d9-252fe4dcf2ed")
-	)
-	(wire
-		(pts
-			(xy 38.1 129.54) (xy 38.1 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7aae7492-3072-4494-a0a5-b39d00edb8dc")
-	)
-	(wire
-		(pts
 			(xy 190.5 134.62) (xy 203.2 134.62)
 		)
 		(stroke
@@ -3697,7 +3271,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 66.04) (xy 102.87 66.04)
+			(xy 99.06 66.04) (xy 109.22 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3737,26 +3311,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 119.38) (xy 102.87 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "825ec596-7019-4f7c-a383-47ce5c3d4b78")
-	)
-	(wire
-		(pts
-			(xy 102.87 53.34) (xy 102.87 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82aea200-2831-41fa-b099-3691450fcfbe")
-	)
-	(wire
-		(pts
 			(xy 198.12 160.02) (xy 190.5 160.02)
 		)
 		(stroke
@@ -3777,7 +3331,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 63.5) (xy 38.1 63.5)
+			(xy 35.56 63.5) (xy 40.64 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3857,16 +3411,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 76.2) (xy 102.87 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99f7c728-d793-4cce-93b5-a50e0f808d9d")
-	)
-	(wire
-		(pts
 			(xy 193.04 88.9) (xy 199.39 88.9)
 		)
 		(stroke
@@ -3884,16 +3428,6 @@
 			(type default)
 		)
 		(uuid "9f50cc20-b064-45fe-9e3b-8cd1b294b6c3")
-	)
-	(wire
-		(pts
-			(xy 102.87 116.84) (xy 102.87 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a33384e0-8df3-47eb-9b7f-76419da3c8bd")
 	)
 	(wire
 		(pts
@@ -3994,26 +3528,6 @@
 			(type default)
 		)
 		(uuid "ba27a284-e6c8-43fc-9b85-81cfa05d396b")
-	)
-	(wire
-		(pts
-			(xy 38.1 63.5) (xy 38.1 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba5de6ff-1e36-483e-b108-bcebff11c4bc")
-	)
-	(wire
-		(pts
-			(xy 102.87 129.54) (xy 102.87 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bcc27080-84f8-406c-ad55-94502f9956af")
 	)
 	(wire
 		(pts
@@ -4254,16 +3768,6 @@
 			(type default)
 		)
 		(uuid "f005516c-e90d-4149-928e-f895b10d7b66")
-	)
-	(wire
-		(pts
-			(xy 38.1 116.84) (xy 40.64 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f162d3e9-39b0-460d-a203-1e834c865b41")
 	)
 	(wire
 		(pts
@@ -5026,76 +4530,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 102.87 113.03 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0925f5a9-7395-443a-807b-b6fca29ead29")
-		(property "Reference" "D23"
-			(at 106.68 111.4424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N5817WS"
-			(at 106.68 113.9824 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
-			(at 102.87 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 102.87 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 102.87 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6296b01f-fe9d-4f97-86aa-022149295e5c")
-		)
-		(pin "1"
-			(uuid "7713262e-9713-48ce-bbe6-fd635466a1b7")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "D23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Amplifier_Audio:TPA6110A2DGN")
 		(at 208.28 165.1 0)
 		(unit 1)
@@ -5316,142 +4750,6 @@
 			(project "ES-Seed3-DevKit-Desktop-Rev2"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
 					(reference "R102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 38.1 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "162a48c5-cc2d-4945-86bc-02e585416348")
-		(property "Reference" "#GND048"
-			(at 38.1 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 35.56 83.566 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 38.1 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.1 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4469fcf5-f2f7-4144-9085-5116763198f1")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "#GND048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 102.87 59.69 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1e4f8624-1b02-471e-8dae-9f6b1a356efa")
-		(property "Reference" "D21"
-			(at 106.68 58.1024 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N5817WS"
-			(at 106.68 60.6424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
-			(at 102.87 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 102.87 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 102.87 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3f2a4c9c-2aea-4638-95a1-c02bc5323d83")
-		)
-		(pin "1"
-			(uuid "03eb2ebf-a74b-4f99-a726-423a87dc0005")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -5776,72 +5074,6 @@
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
 					(reference "#GND084")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Seed3-Pedal-DevKit-Converted-eagle-import:+3V3_A")
-		(at 102.87 106.68 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2f132edf-d8fd-4cf2-a699-1f2e16ffecb9")
-		(property "Reference" "#SUPPLY033"
-			(at 102.87 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3_A"
-			(at 103.505 100.965 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 102.87 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 102.87 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cdecb04f-e209-45fc-acdc-fd40b7402fc2")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "#SUPPLY033")
 					(unit 1)
 				)
 			)
@@ -6630,142 +5862,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 102.87 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "49f532c5-561d-4827-bdb9-6588ad09157e")
-		(property "Reference" "#GND081"
-			(at 102.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 100.33 86.106 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 102.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "57e95f49-ad44-47bc-a435-2306b77578ed")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "#GND081")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 102.87 72.39 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c947a41-c333-4eec-839f-aebcf2784d91")
-		(property "Reference" "D22"
-			(at 106.68 70.8024 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N5817WS"
-			(at 106.68 73.3424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
-			(at 102.87 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 102.87 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 102.87 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d7d68629-3d03-4880-bc80-1034b0eb72ac")
-		)
-		(pin "1"
-			(uuid "fb5b5631-f5fd-4da1-a141-a31af5e8f251")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "D22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 252.73 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6891,76 +5987,6 @@
 			(project "ES-Seed3-DevKit-Desktop-Rev2"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
 					(reference "#GND099")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 38.1 125.73 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "52c92d0d-bad6-4c97-ab14-012174614625")
-		(property "Reference" "R64"
-			(at 34.29 124.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "47K"
-			(at 34.29 126.9999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.116 125.476 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 38.1 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 38.1 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9ad4f0a8-1284-4bb5-827a-e4a59835f382")
-		)
-		(pin "1"
-			(uuid "0f7836d8-c1cd-4c17-9d92-876a2a991702")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -7456,72 +6482,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6f2b9daa-7886-4f1c-b489-d4f239f8bf39")
-		(property "Reference" "#GND047"
-			(at 38.1 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 35.56 139.446 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 38.1 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.1 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5ae4897e-c0aa-4d58-8e30-5ff3558d4633")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "#GND047")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 33.02 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7705,76 +6665,6 @@
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
 					(reference "U15")
 					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Schottky")
-		(at 102.87 125.73 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "785ea199-96e1-47b4-a476-bce3b7170c6c")
-		(property "Reference" "D24"
-			(at 106.68 124.1424 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1N5817WS"
-			(at 106.68 126.6824 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
-			(at 102.87 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 102.87 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode"
-			(at 102.87 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "102183c9-f514-48fe-9fd2-c495dc95cf97")
-		)
-		(pin "1"
-			(uuid "cb331c87-e66e-452c-9003-b4851b709afa")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "D24")
-					(unit 1)
 				)
 			)
 		)
@@ -8098,72 +6988,6 @@
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
 					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Seed3-Pedal-DevKit-Converted-eagle-import:+3V3_A")
-		(at 102.87 53.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "88c2ad01-de65-482d-8e90-f6be053fe5d5")
-		(property "Reference" "#SUPPLY032"
-			(at 102.87 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3_A"
-			(at 103.505 47.625 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 102.87 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 102.87 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8f282722-a24a-4392-94c3-727892c3f423")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "#SUPPLY032")
 					(unit 1)
 				)
 			)
@@ -8659,76 +7483,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 38.1 69.85 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9e58522b-af48-4d0a-8382-068feae6c42f")
-		(property "Reference" "R65"
-			(at 34.29 68.5799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "47K"
-			(at 34.29 71.1199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 39.116 69.596 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 38.1 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 38.1 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e2886200-9c9b-4a1a-a94b-cb3b6487559e")
-		)
-		(pin "1"
-			(uuid "661620d6-3649-4055-87a3-0f62181d370a")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "R65")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Polarized_US")
 		(at 240.03 165.1 90)
 		(mirror x)
@@ -8791,72 +7545,6 @@
 			(project "ES-Seed3-DevKit-Desktop-Rev1"
 				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
 					(reference "C30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 102.87 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ac7adede-4d35-4f2a-8ff4-fcf8d490c102")
-		(property "Reference" "#GND082"
-			(at 102.87 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 100.33 139.446 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" ""
-			(at 102.87 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a2c40b45-e3d7-4c93-848e-1c77c83fbd7b")
-		)
-		(instances
-			(project "ES-Seed3-DevKit-Desktop-Rev1"
-				(path "/19edde5c-efb5-4a72-a9f3-fb5a3c99bba0/ed6ab68d-91fc-4239-8e2e-995ce43ca93d"
-					(reference "#GND082")
 					(unit 1)
 				)
 			)
