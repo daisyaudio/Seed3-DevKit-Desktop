@@ -48681,7 +48681,7 @@
 		)
 		(uuid "38db8e51-725a-4951-8f44-a1e63a8731d4")
 	)
-	(label "DAC_CV_2"
+	(label "DAC_CV_1"
 		(at 76.2 254 180)
 		(effects
 			(font
@@ -48911,7 +48911,7 @@
 		)
 		(uuid "c43fb2ce-ce8b-4b4d-b7a6-548901cc031b")
 	)
-	(label "DAC_CV_1"
+	(label "DAC_CV_2"
 		(at 76.2 251.46 180)
 		(effects
 			(font
