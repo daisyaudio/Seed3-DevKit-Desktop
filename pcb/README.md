@@ -1,5 +1,12 @@
 # Changelog
 
+## Rev3
+
+- Removed components from audio input circuit that introduced noise: R64, R65, D21, D22, D23, D24
+- Connected switching connection on CV Input jacks to GND to prevent idling at non-0V
+- Added silk screen indications for software mapping to Daisy for all pins/peripheral information.
+- Swapped CV out 1 and 2 from the seed so that the software channel matches the hardware label
+
 ## Rev2
 
 - Fixed INH pin on CD4051 to be properly connected to GND.
