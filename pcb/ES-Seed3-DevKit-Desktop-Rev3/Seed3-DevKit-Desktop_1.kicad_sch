@@ -44002,9 +44002,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "This will drop a fair amount of voltage\nMeasured at ~7.86V on a similar circuit on Pedal Dev Kit Rev2"
+	(text "This will drop a fair amount of voltage\nMeasured at 7.975V on hardware"
 		(exclude_from_sim no)
-		(at 198.882 101.346 0)
+		(at 211.836 100.838 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44012,7 +44012,7 @@
 		)
 		(uuid "07f4d8e5-dc66-4900-b24f-20add71be0e4")
 	)
-	(text "Selecting R2 with formula:\nR2 = (Vout/Vref - 1) x R1\nWhere Vref = 1.255V\n\nFor Vout: where R1 = 10K and R2 = 62K\n(R2/R1)+1 * Vref = Vout\n\nVout = 9.036V\n(or if my algebra was wrong, it would be.. 8.781V)\nEither is totally fine .. and they're pretty close in this case."
+	(text "Selecting R2 with formula:\nR2 = (Vout/Vref - 1) x R1\nWhere Vref = 1.255V\n\nFor Vout: where R1 = 10K and R2 = 62K\n(R2/R1)+1 * Vref = Vout\n\nVout = 9.036V\n(measured: 8.919V on hardware)"
 		(exclude_from_sim no)
 		(at 71.374 38.1 0)
 		(effects
@@ -44022,7 +44022,7 @@
 		)
 		(uuid "31fd2683-fa2f-4f16-ac11-1ad82ef8f5f1")
 	)
-	(text "Approx. 4.3V"
+	(text "Approx. 4.4V"
 		(exclude_from_sim no)
 		(at 318.77 59.182 0)
 		(effects
@@ -44043,19 +44043,9 @@
 		)
 		(uuid "472a4235-bf7c-48a0-beab-1f4f96863940")
 	)
-	(text "TODO:\nDecide if we wanna float this or GND it like usual.."
+	(text "The +5V is powering:\n- Headphone Amp\n- DAC output op-amp\n- Reference voltage for CV inputs\n- 6002 buffer for AREF_AUDIO_BIAS"
 		(exclude_from_sim no)
-		(at 296.926 102.362 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "649d55d3-9ded-4156-a875-825d4de793e0")
-	)
-	(text "At the moment, the +5V is powering:\n- Headphone Amp\n- DAC output op-amp\n- Reference voltage for CV inputs\n- 6002 buffer for AREF_AUDIO_BIAS\n\nWe can remove this, and simplify slightly if we:\n- Power Headphone Amp from +3v3_A\n- Change DAC output op-amp to a rail-to-rail opamp that supports higher voltage (i.e. OPA1652)\n- Power DAC output op-amp from +9V_A\n- Add LM4040 for +5V reference for CV inputs\n- Use TL074 or something for AREF_AUDIO_BIAS buffer instead, and power at +9V"
-		(exclude_from_sim no)
-		(at 209.042 13.208 0)
+		(at 254.603 18.8397 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44094,16 +44084,6 @@
 			)
 		)
 		(uuid "a4b35dbd-898b-4147-84c0-adb9cac6aedb")
-	)
-	(text "Not 100% sure why the \nPWR_FLAG is required here..."
-		(exclude_from_sim no)
-		(at 90.678 287.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c35e0dc1-214e-4bce-8c85-6e9666370eca")
 	)
 	(text "DAC / Gate Output"
 		(exclude_from_sim no)
@@ -44147,9 +44127,9 @@
 		)
 		(uuid "f80a0d94-9a3e-4ba1-be60-735e6ce55c2b")
 	)
-	(text "This will drop a fair amount of voltage\nMeasured at ~8.6V on similar circuit on Pedal Dev Kit Rev2"
+	(text "This will drop a fair amount of voltage\nMeasured at 8.80V on hardware"
 		(exclude_from_sim no)
-		(at 194.056 30.226 0)
+		(at 199.39 34.036 0)
 		(effects
 			(font
 				(size 1.27 1.27)
