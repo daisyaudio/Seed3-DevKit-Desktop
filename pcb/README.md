@@ -1,5 +1,9 @@
 # Changelog
 
+## Rev4
+
+- Added missing diode to MIDI input circuit
+
 ## Rev3
 
 - Removed components from audio input circuit that introduced noise: R64, R65, D21, D22, D23, D24
