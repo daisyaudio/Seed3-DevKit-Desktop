@@ -2030,37 +2030,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Gain is set to target +4dBu (maximum)\nobviously this does not make it a pro-line-level device that way..\nwe'd need to probably have a certain amount of headroom.\nIf, instead we look at this as a -10dBV device, then we have\n~14dB of headroom with these values.\n\nGin=0.814 (Rin=10k, Rfb=16k)\nGout=1.228 (Rin=10k, Rfb=24k)\n\nAlternatively we can go closer to the PCM3060's \"2Vrms\" reference and just do:\nGin=0.5, Gout=2 :shrug:\n\nFor now, I've implemented the left channel of audio with less atten/gain."
-		(exclude_from_sim no)
-		(at 5.08 170.942 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "447bf6be-8295-40ac-9d1d-bc8dee2d54e6")
-	)
-	(text "I updated these to be gain of 2.\nHowever, I'm not really sure how the math works out for the other two values..\nSo, I may just need to kludge those a a bit IRL.\n(This can also be reworked to be our normal basic filter)"
-		(exclude_from_sim no)
-		(at 256.794 62.484 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6bf3a77c-3de9-44ab-9cda-9a8904547113")
-	)
-	(text "Detection nets should _probably_ get a pair of diodes for protection.."
-		(exclude_from_sim no)
-		(at 21.59 52.578 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8e01028e-c260-4b41-b25a-c6d81291e5e2")
-	)
 	(text "AUDIO I/O"
 		(exclude_from_sim no)
 		(at 82.804 12.954 0)
@@ -2070,16 +2039,6 @@
 			)
 		)
 		(uuid "db75da05-ed5a-4b63-8643-f33cb33d4bef")
-	)
-	(text "DECISION - Two Choices:\n1. Add LD1117 (or LP2985) or other 5V Linear Reg.\n2. Power TPA6110 from Seed's 3v3A"
-		(exclude_from_sim no)
-		(at 244.602 127.762 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e18a82d2-5582-4d91-b05d-cbdca0a277ab")
 	)
 	(junction
 		(at 222.25 91.44)
