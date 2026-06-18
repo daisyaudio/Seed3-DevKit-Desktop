@@ -130,7 +130,8 @@
         "exclude_dnp": false,
         "field_delimiter": ",",
         "fields_group_by": [
-          "Value"
+          "Value",
+          "Footprint"
         ],
         "fields_labels": [
           "Value",
@@ -149,7 +150,9 @@
           "Price",
           "Sim.Device",
           "Sim.Pins",
-          "SnapEDA_Link"
+          "SnapEDA_Link",
+          "Sim.Library",
+          "Sim.Name"
         ],
         "fields_ordered": [
           "Value",
@@ -157,7 +160,7 @@
           "Footprint",
           "__Datasheet",
           "__Description",
-          "__${QUANTITY}",
+          "${QUANTITY}",
           "__${ITEM_NUMBER}",
           "__Availability",
           "__Check_prices",
@@ -168,7 +171,9 @@
           "__Price",
           "__Sim.Device",
           "__Sim.Pins",
-          "__SnapEDA_Link"
+          "__SnapEDA_Link",
+          "__Sim.Library",
+          "__Sim.Name"
         ],
         "filter_string": "",
         "group_symbols": true,
