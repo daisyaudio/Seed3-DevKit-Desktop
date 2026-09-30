@@ -51,7 +51,7 @@ With essential audio, MIDI, CV, and control components at your fingertips, the D
 | Output impedance | 100Ω |
 | CV input range | -5V to +5V |
 | CV output range | 0V to +5V |
-| Gate input threshold | +0V4 |
+| Gate input threshold | +0.4V |
 | Board dimensions | 197 mm × 111 mm |
 | MIDI connectors | 3 × 5-pin DIN (In, Out, Thru) |
 
@@ -89,9 +89,7 @@ make program-dfu
 
 ### 4. Power up
 
-<!-- TODO: describe the power connection. -->
-
-Connect power, then plug in your audio, MIDI, and CV connections.
+The Dev Kit is powered over external USB-C (+5 V). Connect a USB-C cable or 5 V USB supply, then plug in your audio, MIDI, and CV connections.
 
 ## Hardware Reference
 
