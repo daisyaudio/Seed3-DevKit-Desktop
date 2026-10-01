@@ -59,37 +59,60 @@ With essential audio, MIDI, CV, and control components at your fingertips, the D
 
 ### 1. Set up the toolchain
 
-Install the Daisy toolchain and clone the libraries by following the setup guide at [docs.daisy.audio](https://docs.daisy.audio).
+Install the Daisy toolchain by following the setup guide at [docs.daisy.audio](https://docs.daisy.audio/tutorials/cpp-dev-env/).
 
-- [libDaisy](https://github.com/electro-smith/libDaisy) — hardware abstraction library
-- [DaisySP](https://github.com/electro-smith/DaisySP) — DSP library
+- [libDaisy](https://github.com/daisyaudio/libDaisy) — hardware abstraction library
+- [DaisySP](https://github.com/daisyaudio/DaisySP) — DSP library
 
 ### 2. Build the template
- 
+
 A ready-to-go starting project for the Desktop Dev Kit lives in libDaisy at
 [`examples/devkits/Desktop-DevKit-UI-Template`](https://github.com/daisyaudio/libDaisy/tree/master/examples/devkits/Desktop-DevKit-UI-Template).
- 
-```bash
-git clone --recurse-submodules https://github.com/daisyaudio/libDaisy
-cd libDaisy
-make
-cd examples/devkits/Desktop-DevKit-UI-Template
-make
-```
- 
-Copy the template folder to start your own instrument, then edit the audio callback. Inputs are `in[0][i]` (left) and `in[1][i]` (right), and outputs are `out[0][i]` and `out[1][i]` (see [Audio](#audio)).
+It reads every input on the Dev Kit, manages the 16 buttons, 8 pots, and LEDs with libDaisy's UI class, and prints input changes over USB serial.
 
-### 3. Flash the Seed3
+> [!NOTE]
+> The template finds libDaisy with a relative path (`LIBDAISY_DIR = ../../../` in its Makefile). If you copy the template folder somewhere else to start your own project, update `LIBDAISY_DIR` to point to your libDaisy checkout. To use DaisySP, uncomment and set `DAISYSP_DIR` in the same file.
 
-Connect the Dev Kit to your computer over USB-C, put the Seed3 into bootloader mode, then flash:
+### 3. Install the external-USB bootloader (one time)
+
+The Dev Kit is programmed and powered through its own USB-C port (above the Seed3), which needs the external-USB variant of the Daisy bootloader. Install it once using the Seed3's built-in USB port, in either of two ways:
+
+- From the template folder, run:
 
 ```bash
-make program-dfu
+  make program-boot
 ```
 
-### 4. Power up
+- Or choose the **v6.x (external)** bootloader in the [Daisy Web Programmer](https://flash.daisy.audio/).
 
-The Dev Kit is powered over external USB-C (+5 V). Connect a USB-C cable or 5 V USB supply, then plug in your audio, MIDI, and CV connections.
+You don't need to reflash the bootloader again unless you switch bootloader variants or want to program an app to the Seed3's internal flash.
+
+### 4. Flash your program
+
+1. Connect a USB-C cable from your computer to the Dev Kit's USB-C port. This also powers the board.
+2. Press **RESET**, then **BOOT** on the Seed3. The Seed3's USR LED blinks quickly, then pulses slowly, which means it's ready to receive firmware.
+3. Flash the program:
+
+```bash
+   make program-dfu
+```
+
+   Or upload `build/Desktop-DevKit-UI-Template.bin` in the [Daisy Web Programmer](https://flash.daisy.audio/).
+
+### 5. Try it out
+
+Once flashed, the Seed3's USR LED blinks at a steady rate, and:
+
+- Pressing a tactile switch lights its LED.
+- CV Out 1 and CV Out 2 output a slow ramp and a saw wave.
+- MIDI notes sent to MIDI In are echoed to MIDI Out.
+- Audio at the inputs passes straight through to the outputs.
+- A serial monitor connected over USB shows a message whenever any input changes.
+
+Start your own instrument from `src/main.cpp` and `main_page.h`. Inputs are `in[0][i]` (left) and `in[1][i]` (right), and outputs are `out[0][i]` and `out[1][i]` (see [Audio](#audio)).
+
+> [!TIP]
+> The template builds with debugging enabled (`DEBUG = 1`, `OPT = -Og`). For release builds, set `DEBUG = 0` and `OPT = -O3` in the Makefile.
 
 ## Hardware Reference
 
@@ -149,7 +172,7 @@ The 16 tactile switches are read through two daisy-chained shift registers.
 | `SR_CLK` | D8 |
 | `SR_DATA` | D10 |
 
-Switches `S1`–`S16` map to `TAC_SW1`–`TAC_SW16`, arranged in a 4 × 4 grid:
+Switches `S1`–`S16` map to `TAC_SW1`–`TAC_SW16`, arranged in a 8 × 2 grid:
 
 | | | | |
 | --- | --- | --- | --- |
@@ -160,7 +183,7 @@ Switches `S1`–`S16` map to `TAC_SW1`–`TAC_SW16`, arranged in a 4 × 4 grid:
 
 ### LEDs (I²C LED driver)
 
-The 16 LEDs (`LED_1`–`LED_16`, board refs D1–D16) sit in the same 4 × 4 grid as the tactile switches and are driven by an LED driver over I²C.
+The 16 LEDs (`LED_1`–`LED_16`, board refs D1–D16) sit in the same 8 × 2 grid as the tactile switches and are driven by an LED driver over I²C.
 
 | Signal | Seed3 Pin |
 | --- | --- |
