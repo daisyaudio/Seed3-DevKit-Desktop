@@ -63,14 +63,19 @@ With essential audio, MIDI, CV, and control components at your fingertips, the D
 Follow the Daisy [C++ Getting Started guide](https://docs.daisy.audio/tutorials/cpp-dev-env/). It installs the toolchain and clones [DaisyExamples](https://github.com/daisyaudio/DaisyExamples), which includes [libDaisy](https://github.com/daisyaudio/libDaisy) (hardware library) and [DaisySP](https://github.com/daisyaudio/DaisySP) (DSP library).
 
 ### 2. Update libDaisy
-
-The Desktop Dev Kit template and board support are newer than the copy of libDaisy that DaisyExamples includes. From your `DaisyExamples` folder, update libDaisy to the latest version and rebuild it:
-
+ 
+The Desktop Dev Kit template and board support are newer than the copy of libDaisy included with DaisyExamples. From your `DaisyExamples` folder, update libDaisy to its latest version, fetch its own dependencies, and rebuild it:
+ 
 ```bash
 git submodule update --remote libDaisy
-cd libDaisy
-make
+git -C libDaisy submodule update --init --recursive
+make -C libDaisy
 ```
+ 
+The first line moves libDaisy to its latest version. The second fetches libDaisy's own dependencies, such as the STM32 drivers it needs to compile. The last line rebuilds libDaisy, which is required after any update.
+ 
+> [!CAUTION]
+> Running `git submodule update --init --recursive` or `git pull --recurse-submodules` from the `DaisyExamples` folder afterwards resets libDaisy to the older version DaisyExamples was built with. If that happens, run the three commands above again.
 
 ### 3. Build the template
 
@@ -263,7 +268,7 @@ The 16 LEDs (`LED_1`–`LED_16`, refs D1–D16) sit in the same two rows of eigh
 
 ### USB-C
 
-The Dev Kit's USB-C port (J7) powers the board and connects to the Seed3's USB High Speed peripheral. It is separate from the USB-C port on the Seed3 module.
+The Dev Kit's USB-C port (J7) powers the board and connects to the Seed3's external USB peripheral. It is separate from the USB-C port on the Seed3 module.
 
 | Signal | Seed3 Pin |
 | --- | --- |
@@ -303,12 +308,6 @@ Subject to the terms of that licence, you may:
 
 - Use, study, copy, modify, and distribute these designs and any products made from them.
 - Incorporate these designs, in whole or in part, into closed-source and commercial products.
-
-When you redistribute these designs or products made from them, you must:
-
-- Retain all copyright, licence, and other notices contained in the source files.
-- Add a notice to any modified source stating that you modified it, with the date and a brief description of the change.
-- Ensure that recipients of any product made from these designs have access to the applicable notices.
 
 These designs are provided "as is", without warranty of any kind, express or implied. See [LICENSE](LICENSE.txt) for the full licence text, including the disclaimer of warranty and limitation of liability.
 
