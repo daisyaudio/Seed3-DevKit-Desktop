@@ -52776,8 +52776,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 54.61 66.04 90)
-		(mirror x)
+		(at 54.61 66.04 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -52785,7 +52784,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "24545df8-cf14-45d0-bfad-ef917f597497")
 		(property "Reference" "R84"
 			(at 54.61 69.85 90)
@@ -53186,8 +53184,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 354.33 203.2 90)
-		(mirror x)
+		(at 354.33 203.2 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -54593,8 +54590,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 242.57 168.91 90)
-		(mirror x)
+		(at 242.57 168.91 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -54602,7 +54598,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4f28d0c5-0a0d-4687-afef-ef0bc1e8221f")
 		(property "Reference" "R49"
 			(at 242.57 172.72 90)
@@ -54830,8 +54825,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 370.84 185.42 90)
-		(mirror x)
+		(at 370.84 185.42 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -55537,8 +55531,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 261.62 158.75 90)
-		(mirror x)
+		(at 261.62 158.75 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -55546,7 +55539,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "61061c1a-f4b0-4b29-a3f1-6db8f30eb5b4")
 		(property "Reference" "R55"
 			(at 261.62 151.13 90)
@@ -56447,8 +56439,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 354.33 148.59 90)
-		(mirror x)
+		(at 354.33 148.59 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -56456,7 +56447,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "71881d3f-6b31-443e-ae51-27851c21e718")
 		(property "Reference" "R33"
 			(at 354.33 140.97 90)
@@ -56701,8 +56691,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 370.84 138.43 90)
-		(mirror x)
+		(at 370.84 138.43 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -56938,7 +56927,6 @@
 	(symbol
 		(lib_id "Device:R_US")
 		(at 312.42 69.85 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -56946,10 +56934,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7f3512a4-5cb3-4c07-a83b-75a6e1bbfe82")
 		(property "Reference" "R86"
-			(at 314.96 67.945 0)
+			(at 314.96 71.755 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -56960,7 +56947,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 314.96 71.755 0)
+			(at 314.96 67.945 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -57503,8 +57490,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 354.33 195.58 90)
-		(mirror x)
+		(at 354.33 195.58 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -57512,7 +57498,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8ad4e56c-6db7-405d-8640-7c9107a062f0")
 		(property "Reference" "R37"
 			(at 354.33 187.96 90)
@@ -57584,8 +57569,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 354.33 157.48 90)
-		(mirror x)
+		(at 354.33 157.48 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -57742,8 +57726,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 261.62 191.77 90)
-		(mirror x)
+		(at 261.62 191.77 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -57751,7 +57734,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "902a3c59-7101-4390-a77c-66469b47d846")
 		(property "Reference" "R60"
 			(at 261.62 184.15 90)
@@ -57824,7 +57806,6 @@
 	(symbol
 		(lib_id "Device:R_US")
 		(at 135.89 66.04 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -57832,10 +57813,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "927ca5c2-4381-4d7c-93b8-9e0b4134066c")
 		(property "Reference" "R82"
-			(at 133.35 64.135 0)
+			(at 133.35 67.945 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -57846,7 +57826,7 @@
 			)
 		)
 		(property "Value" "62K"
-			(at 133.35 67.945 0)
+			(at 133.35 64.135 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -57988,8 +57968,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 242.57 201.93 90)
-		(mirror x)
+		(at 242.57 201.93 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -57997,7 +57976,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "97135375-e87f-4d2b-b217-e9b83063225a")
 		(property "Reference" "R57"
 			(at 242.57 205.74 90)
@@ -59456,8 +59434,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 236.22 57.15 90)
-		(mirror x)
+		(at 236.22 57.15 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -59465,7 +59442,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b8b527b7-743b-46a5-b59b-351992c7309e")
 		(property "Reference" "R88"
 			(at 236.22 49.53 90)
@@ -59696,8 +59672,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 243.84 68.58 0)
-		(mirror y)
+		(at 243.84 68.58 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -59705,10 +59680,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c05a6a9a-5fd3-4212-9ac0-92e7d291d9a8")
 		(property "Reference" "R87"
-			(at 241.3 66.675 0)
+			(at 241.3 70.485 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -59719,7 +59693,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 241.3 70.485 0)
+			(at 241.3 66.675 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -59954,7 +59928,6 @@
 	(symbol
 		(lib_id "Device:R_US")
 		(at 135.89 81.28 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -59962,10 +59935,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cd284cd7-71b0-4fe1-abec-c3ccb7a83267")
 		(property "Reference" "R83"
-			(at 138.43 79.375 0)
+			(at 138.43 83.185 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -59976,7 +59948,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 138.43 83.185 0)
+			(at 138.43 79.375 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -60668,8 +60640,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 77.47 71.12 90)
-		(mirror x)
+		(at 77.47 71.12 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -60677,7 +60648,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e0ae65d9-65bb-4671-b387-514ff33936af")
 		(property "Reference" "R81"
 			(at 77.47 74.93 90)
@@ -60749,8 +60719,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 223.52 201.93 90)
-		(mirror x)
+		(at 223.52 201.93 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -60758,7 +60727,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e0ed44b1-a6ec-4db3-936b-5ec4f64ef47b")
 		(property "Reference" "R56"
 			(at 223.52 194.31 90)
@@ -60830,8 +60798,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 354.33 166.37 90)
-		(mirror x)
+		(at 354.33 166.37 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -60839,7 +60806,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e4d1c2fc-31b4-4319-b345-6c6b4468771f")
 		(property "Reference" "R5"
 			(at 354.33 170.18 90)
@@ -61147,8 +61113,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 102.87 137.16 90)
-		(mirror x)
+		(at 102.87 137.16 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -61156,7 +61121,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eba74858-9cf9-4b00-a9d7-7cc13e0739d7")
 		(property "Reference" "R1"
 			(at 102.87 129.54 90)
@@ -61228,8 +61192,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 354.33 210.82 90)
-		(mirror x)
+		(at 354.33 210.82 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -61237,7 +61200,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ed79ad6a-91a3-48db-a2e3-7dd2c4f36dde")
 		(property "Reference" "R7"
 			(at 354.33 214.63 90)
@@ -61546,8 +61508,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 223.52 168.91 90)
-		(mirror x)
+		(at 223.52 168.91 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -61555,7 +61516,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f29edcd1-c1b2-4ceb-92c7-a3320e3fff61")
 		(property "Reference" "R48"
 			(at 223.52 161.29 90)
