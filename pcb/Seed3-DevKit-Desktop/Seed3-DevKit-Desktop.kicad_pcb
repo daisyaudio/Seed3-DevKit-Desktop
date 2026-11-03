@@ -195,7 +195,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/977b038d-f275-4fa4-9028-497d5948477b")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -486,7 +486,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/5dcde181-6fa6-4774-8f9b-48f5a503b47a")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -591,7 +591,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/8bff9f7c-2aa3-46c6-8c86-bcff91c00ccd")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -735,7 +735,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/22c17728-747a-4efd-a50d-09e6964a0859")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1061,7 +1061,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/ed79ad6a-91a3-48db-a2e3-7dd2c4f36dde")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1353,7 +1353,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/a3beb503-a1f7-4c9c-810f-4a8b4c890c2c")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1729,7 +1729,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/df38ac6b-fd4c-4701-8e9d-123e859a4ec0")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1875,7 +1875,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/fdd5c992-cb9f-4a2c-9e5f-c05d149e0603")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2251,7 +2251,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/968ed769-c6ba-4162-9dc1-bb6475e2b32e")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2397,7 +2397,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/f184b016-9982-4045-a5d0-f56befeb2a70")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2541,7 +2541,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/c9a75753-8cde-464b-bc4b-f610fb04b3cd")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3013,7 +3013,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/e5a3b68e-beba-4377-bd97-bf6654a79899")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3159,7 +3159,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/d77287a9-f844-4153-b44b-6041ee90f70b")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4078,7 +4078,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/4f28d0c5-0a0d-4687-afef-ef0bc1e8221f")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4224,7 +4224,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/a281d73d-247e-407e-b000-bdc3be6d8db5")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4375,7 +4375,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/5a8bb030-7f07-4470-8559-80fd2ea71f96")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4826,7 +4826,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/a4eb8f65-77ec-4ee5-ad74-6300e983e12e")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5287,7 +5287,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/fb73a9b8-4956-4485-a8ca-69eb11256918")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5433,7 +5433,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/11e35076-0406-4d61-846f-ae2ca1ac6bf0")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5592,7 +5592,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/0742428c-7011-4618-8d0d-422d268a5f31")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5789,7 +5789,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/9489572d-5af8-4ad1-af7f-7f0b18cc1205")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5935,7 +5935,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/a10eecf1-5e24-4de1-a356-211a64a30b54")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6092,7 +6092,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/d93fa4bd-6579-4201-be26-20cf9d5c7b1e")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6377,7 +6377,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/e4d1c2fc-31b4-4319-b345-6c6b4468771f")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6523,7 +6523,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/cd284cd7-71b0-4fe1-abec-c3ccb7a83267")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6669,7 +6669,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/c6eba874-3ab6-4377-b9f5-4f60fd51d766")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6815,7 +6815,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/d916d2b2-0206-486c-99ab-e29789409b6a")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7267,7 +7267,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/b50329cf-2c4d-4d32-8f61-995239c831e4")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7702,7 +7702,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/97135375-e87f-4d2b-b217-e9b83063225a")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7861,7 +7861,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/7ab5c3c8-17c3-4b46-8aab-33d6e404ecd2")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8058,7 +8058,7 @@
 		(property ki_fp_filters "TSSOP*4.4x5mm*P0.65mm* DIP*W7.62* SOIC*3.9x9.9mm*P1.27mm* SO*5.3x10.2mm*P1.27mm*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/219f1b30-dca4-4b8a-a559-c2ef1a64c2b2")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8513,7 +8513,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/6ff8a928-6ab2-4f0c-8c19-ffa35ef0a06a")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8974,7 +8974,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/a103b977-6f85-48ea-8bc5-fc335d8796c3")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9120,7 +9120,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/3757b43e-757e-4e9e-9d5e-a2a19c432626")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9266,7 +9266,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/1656fe0a-fd43-462b-92ac-f83690492676")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9412,7 +9412,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/fdf47144-4160-4864-9336-6d23171e73c4")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9864,7 +9864,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/993fa69b-7e59-4e18-92a2-3deae816a9d5")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10312,7 +10312,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/11a7634c-8aa0-433c-8fb2-67ed90de4376")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10509,7 +10509,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/1271169c-1236-4aa7-a701-4cc08cb78173")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10658,7 +10658,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/7d29a0f1-fb1b-4afc-8a9f-3f917d2da781")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11119,7 +11119,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/800bce71-269a-4d52-803f-330e12c493c6")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11567,7 +11567,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/be09ef21-d93b-49fe-a28c-aeb920dc1340")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11911,7 +11911,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/690bc152-32d7-4433-b880-971e25a22f22")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12106,7 +12106,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/542b2fbe-3bf5-414f-95c7-940cf60f17a7")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12256,7 +12256,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/877690f2-28ce-4ee8-a7db-03602bb5d82d")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12960,7 +12960,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/6fa05f86-e835-4b5e-96a8-9cebbd4ee6ef")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13105,7 +13105,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/5e420578-d6a3-4cee-8b16-a596f81b756b")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13234,7 +13234,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/b029966d-b6ed-42c9-920d-c0621e88b72d")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13597,7 +13597,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/e775416d-6aec-43a8-a6a7-ad2a3ff7e7e6")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14082,7 +14082,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/022a69be-4dc1-486d-be08-ef6ed6d6d74c")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14442,7 +14442,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/920a88d2-9dc7-49d8-abcd-2fad80600c94")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14588,7 +14588,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/7fdd7ea2-0b11-4ec1-8428-28d9f3521114")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14747,7 +14747,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/9d6d6db1-cb89-4e1a-bb6d-6c38d25e4cf8")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14944,7 +14944,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/a9e145c9-abac-447b-b1f0-a43f5b27b18a")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15114,7 +15114,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/010bda27-87f9-4541-8e51-97154c5a65c1")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15485,7 +15485,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/338da7fc-4e24-4ea6-a810-9287b2b8a263")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15770,7 +15770,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/4619ad96-7afc-452f-98b4-b4fd6f8cc900")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15940,7 +15940,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/92f4edd6-ee66-4b9b-b838-7a2eb10bdc16")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16300,7 +16300,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/b34bd5ae-f8bc-4651-8391-0356ad209f85")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17027,7 +17027,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/a06ef429-843c-4c03-9143-85b5dcc7fc63")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17173,7 +17173,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/29860541-c995-47f7-84d2-e8228224e187")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17465,7 +17465,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/902a3c59-7101-4390-a77c-66469b47d846")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18059,7 +18059,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/c64da762-0c32-4def-9ba8-bbfcd7a3d6c8")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18256,7 +18256,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/59aede44-d4f3-4388-a3e2-898db1f8d25a")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18402,7 +18402,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/b02293af-928f-4e4e-9952-90350c179cff")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18559,7 +18559,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/43744dc4-708a-4307-bc10-d944dc22b945")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18857,7 +18857,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/fb9cfa66-a36b-46e9-847d-b76ed2f8a0f7")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19059,7 +19059,7 @@
 		(property ki_fp_filters "Electrosmith*Daisy*Seed*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/dc1775ef-a27b-40ff-b904-53af70c62edf")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19828,7 +19828,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/821f30ab-4f55-4a58-be82-f447236b3ebe")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19974,7 +19974,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/f4e8c9bc-c241-4b42-822b-e6ce5cbf5241")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20120,7 +20120,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/5ad12f58-0e00-4ac4-ae68-f5697fc6e321")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20266,7 +20266,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/61bea9c2-6930-4240-8920-1d842427d2ce")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20425,7 +20425,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/f91fb445-be25-4679-a0b7-125048499025")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20635,7 +20635,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/7ae8207c-0f4f-4730-a590-07431adf668d")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20989,7 +20989,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/73264123-4559-41ee-98a9-e12bd65b21b6")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21274,7 +21274,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/eba74858-9cf9-4b00-a9d7-7cc13e0739d7")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21420,7 +21420,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/292bdaee-a0d5-4df3-8ee6-7f81b57dd047")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21569,7 +21569,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/5092a3f1-68d1-4587-b827-aa1694fe58aa")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22458,7 +22458,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/64a197ea-0bb2-48e1-a5d5-37aafef26fb7")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22750,7 +22750,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/4063de1c-cdf6-40af-9f55-707afd14551f")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22896,7 +22896,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/209067c9-c88e-4389-a263-1e0f9b8bd7f7")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23055,7 +23055,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/07108ca2-0054-489d-a925-d434ab02048b")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23252,7 +23252,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/513914e0-5c8a-4dba-ae31-6bfb4f64523b")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23398,7 +23398,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/3df61c3d-f305-4d6d-bb9e-09487a198c01")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23690,7 +23690,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/58b31ca8-e5b7-4b62-a158-ffb81aeb2a3c")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23840,7 +23840,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/34b41a3a-49d6-403c-9385-8f33ff9931d6")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24140,7 +24140,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/81dabfce-4e07-400f-911c-3ac136262018")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24500,7 +24500,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/7f3512a4-5cb3-4c07-a83b-75a6e1bbfe82")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24792,7 +24792,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/c05a6a9a-5fd3-4212-9ac0-92e7d291d9a8")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24962,7 +24962,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/e677f01e-550f-4d78-bef6-fb4136d9da65")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25322,7 +25322,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/06a84dc2-884e-48a2-9647-276e3b666897")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25468,7 +25468,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/5296c535-83a3-4626-ae0f-b0cf445b8d0c")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25760,7 +25760,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/700c7ffa-4f4c-4fbf-a490-e9925279d203")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26195,7 +26195,7 @@
 		(property ki_fp_filters "TSSOP*4.4x9.7mm*P0.65mm*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/42165f89-518b-4842-b67a-72b1793758c5")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26767,7 +26767,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/00675da3-a63a-4812-88e0-5f56d0d3c24b")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26913,7 +26913,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/8ad4e56c-6db7-405d-8640-7c9107a062f0")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27070,7 +27070,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/c1e5129e-a3a6-4ec7-91b6-e2da3b08bb1e")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27355,7 +27355,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/5e1a1bb7-bdff-4fbe-af6e-2ec13c1976a0")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27501,7 +27501,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/7729695b-a4f2-441b-9d53-28b71b3c8a7f")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27647,7 +27647,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/e0ed44b1-a6ec-4db3-936b-5ec4f64ef47b")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27793,7 +27793,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/aafd978d-e878-4dbe-af41-0dc548f0e476")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29187,7 +29187,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/4201030c-5071-4037-b57e-cfdbcd83d428")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29547,7 +29547,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/71881d3f-6b31-443e-ae51-27851c21e718")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29693,7 +29693,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/0d4a283f-efd4-40c3-ab46-7991bb8b7c6b")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29852,7 +29852,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/9c596797-c366-49a8-816e-e71fbcc00f8e")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30075,7 +30075,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/cfa81bb2-9865-4438-b2bb-89f01a7c6c11")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30469,7 +30469,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/83f5e371-9ada-44bb-be08-2339bb3eea88")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30988,7 +30988,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/9f81041e-df6f-49a2-8a05-09fe032e1233")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31572,7 +31572,7 @@
 		(uuid "846bf37a-03c3-43ea-a6a4-dc99e99aee51")
 		(at 56 85.09 -90)
 		(property "Reference" "J7"
-			(at -1.425 -3.135 270)
+			(at -1.425 -3.135 90)
 			(layer "F.SilkS")
 			(uuid "ff0ed41b-13b4-4dc1-b618-fbb5b856ad4d")
 			(effects
@@ -31583,7 +31583,7 @@
 			)
 		)
 		(property "Value" "USB4110GFA"
-			(at 4.29 7.265 270)
+			(at 4.29 7.265 90)
 			(layer "F.Fab")
 			(uuid "a8390ed9-e1a2-4c4e-9d18-897743214a5d")
 			(effects
@@ -31594,7 +31594,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2a581583-1aaa-4df7-996a-ae8f4d520a95")
@@ -31605,7 +31605,7 @@
 			)
 		)
 		(property "Description" "USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c99ac110-9b1a-4d42-92e8-6e2eb3843142")
@@ -31620,7 +31620,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7c99526b-9cd6-4cd5-83bd-40c1a104f938")
+			(uuid "599ca7b3-0109-4cb2-a00a-8fd5648a6f9f")
 			(effects
 				(font
 					(size 1 1)
@@ -31633,7 +31633,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "956b66c9-f6e0-4d60-92a7-25b81f123788")
+			(uuid "c3edac45-b813-47dc-b697-e91d48c798f8")
 			(effects
 				(font
 					(size 1 1)
@@ -31646,7 +31646,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fbc22494-bfb9-47fa-8acd-249afa60632d")
+			(uuid "1e65c60a-6a72-4fcc-86aa-7552626dae1f")
 			(effects
 				(font
 					(size 1 1)
@@ -31659,7 +31659,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1f190763-a18a-4d82-a360-34488a6aa761")
+			(uuid "d2bbf17d-be59-4660-b38d-cd9331c6ca99")
 			(effects
 				(font
 					(size 1 1)
@@ -31672,7 +31672,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9b75655b-5868-442d-a154-0e34c41429a0")
+			(uuid "48f89e07-afa2-49d2-bc32-701848b44a3a")
 			(effects
 				(font
 					(size 1 1)
@@ -31685,7 +31685,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "174fa2a2-1d43-4402-849c-6ca1b4c4ced2")
+			(uuid "48fb015c-e16b-4820-85d8-36097e87320f")
 			(effects
 				(font
 					(size 1 1)
@@ -31695,7 +31695,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/41d40727-367d-4c78-8ff6-03e2ab644a31")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31704,7 +31704,7 @@
 				)
 			)
 		)
-		(attr smd)
+		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -4.47 6.28)
@@ -32033,6 +32033,17 @@
 			(uuid "ec6922bc-a7e8-47a5-946e-cdefa4914ff8")
 		)
 		(embedded_fonts no)
+		(model "/Users/stephenhensley/Developer/repos/Daisy/ES-Seed3-DevKit-Eurorack/pcb/Seed3-DevKit-Eurorack/libs/USB4110GFA.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Inductor_SMD:L_TDK_VLS6045EX_VLS6045AF"
 		(layer "F.Cu")
@@ -32093,7 +32104,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/70e1867f-ad29-48d5-a726-72d54e2ffbd0")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32282,7 +32293,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/27c27532-f3b2-499b-9091-7a886a7875e0")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32428,7 +32439,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/1911a75f-b028-49bc-85e0-7e255262ffc4")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32537,7 +32548,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/276c6903-7b23-4022-85f4-c4ef343ca56b")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32911,7 +32922,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/51fc6909-a218-43a5-a4aa-d6eeb4739534")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33274,7 +33285,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/beb9479f-248d-4d9e-952e-d6d4a13e1894")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33735,7 +33746,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/41aed663-e0fd-4cda-b941-3c0e48c71774")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34327,7 +34338,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/65109724-15a4-4d0a-a518-8d910ff7403a")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34625,7 +34636,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/04ed35be-389d-4a11-a649-6c4ae7d433b3")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34822,7 +34833,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/4cdcdffb-2732-4a8a-ad23-31fd91fe494a")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34968,7 +34979,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/de95cdc8-3d12-4898-9185-40a75c5cc143")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35140,7 +35151,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/6141636d-6fc1-4c37-9394-db21641660c2")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35511,7 +35522,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/001233dc-8f58-45e0-a8de-2c4f5df96b92")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35706,7 +35717,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/5017f260-f7e1-4444-821c-d9ea036f596b")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35852,7 +35863,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/24545df8-cf14-45d0-bfad-ef917f597497")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36468,7 +36479,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/5c9b03c6-a5d4-4c4e-91fa-af6aae0dbc40")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36614,7 +36625,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/61061c1a-f4b0-4b29-a3f1-6db8f30eb5b4")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36773,7 +36784,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/f6ce93fb-deb9-447c-84ff-d5c0b709d9c4")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36970,7 +36981,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/6bf55ba7-006e-46ba-9e9e-812ebae892a0")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37116,7 +37127,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/c8e3a9b6-8bbe-44ba-8800-b80a66fafca2")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37408,7 +37419,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/7e520a59-2662-401c-ad44-465b0cb19ed4")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37554,7 +37565,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/f29edcd1-c1b2-4ceb-92c7-a3320e3fff61")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37704,7 +37715,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/1cbd17d8-5eb9-42e4-b0f8-607926c04589")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37980,7 +37991,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/5b7367af-a4b2-4fd8-8a82-264b2e5f5354")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38126,7 +38137,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/239353e1-97af-4820-a430-9b19a66d79ce")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38381,7 +38392,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/b8b527b7-743b-46a5-b59b-351992c7309e")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38527,7 +38538,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/db7a1423-c290-4db5-8b20-3ac6d5fb368a")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39082,7 +39093,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/2ea7708b-8f18-4427-882e-61a11490f692")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39228,7 +39239,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/1407cb0e-0810-41ca-9fcd-880ed37f54c5")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39377,7 +39388,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/4bb5c380-63ae-4c80-a005-38ead7bf08b9")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40419,7 +40430,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/5b790b2c-6b75-445d-a43d-ddfec9bb6c1d")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41000,7 +41011,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/654a3502-5fc3-45a9-a3a5-99e6c1e166b3")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41144,7 +41155,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/a7c8fa40-d431-488e-a854-2a7156af4eb9")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41905,7 +41916,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/fd81cf06-9943-4f69-8a75-621a98c05075")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42051,7 +42062,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* DIP*W10.16mm* SMDIP*W9.53mm*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/43669f18-c2be-44d7-902f-0ee895601e37")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42325,7 +42336,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/2e90d718-9565-4b75-a366-387b2677fd5b")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48402,7 +48413,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/f5f18d40-afd7-4dda-891e-032257cd4247")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48561,7 +48572,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/368d00a9-b471-45cb-abdb-78965e881f64")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48711,7 +48722,7 @@
 		(at 58.275 136.7 -90)
 		(descr "<b>TF-01A-6</b><br>")
 		(property "Reference" "MICRO_SD7"
-			(at 0.05 -9.475 270)
+			(at 0.05 -9.475 90)
 			(layer "F.SilkS")
 			(uuid "2b1f31b7-7f3c-4727-b8df-1d46dd0e12d2")
 			(effects
@@ -48722,7 +48733,7 @@
 			)
 		)
 		(property "Value" "TF-01A"
-			(at -0.1 1.475 270)
+			(at -0.1 1.475 90)
 			(layer "F.Fab")
 			(uuid "5f7765d5-b9e1-45a5-94b7-3a09962f5d64")
 			(effects
@@ -48733,7 +48744,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "af12d0fb-9eed-4384-a8fb-8cb2c25251e9")
@@ -48744,7 +48755,7 @@
 			)
 		)
 		(property "Description" "Standard Card Edge Connectors"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "db0509f3-f503-4119-980a-cf8a4599abee")
@@ -48847,7 +48858,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/063298b0-50f5-40f2-9c55-6235b0d2d032")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49182,6 +49193,17 @@
 			(uuid "973eade8-a6df-46da-b143-22368aebc19b")
 		)
 		(embedded_fonts no)
+		(model "/Users/stephenhensley/Developer/repos/Daisy/ES-Seed3-DevKit-Eurorack/pcb/Seed3-DevKit-Eurorack/libs/TF-01A/TF-01A.step"
+			(offset
+				(xyz -1 -3.6 -0.1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "PartsFromEagle:TL1105SPF250Q_SILK"
 		(layer "F.Cu")
@@ -49260,7 +49282,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/9d2a3a1f-08af-49ec-97cc-1b4bde6bc951")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49620,7 +49642,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/8cb7fb09-e0fc-4291-a9cc-f2f275a4f23f")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49766,7 +49788,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/75e4fa61-795c-4018-8c24-e5265d300c44")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49912,7 +49934,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/12061616-4779-4565-b054-b0ee5cf08a3d")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50058,7 +50080,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/3c354062-9c73-4a69-8055-85b5f4076510")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50350,7 +50372,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/1d86aa1b-b96e-4837-a20d-8c5a5ecdd811")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50944,7 +50966,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/e2b13f4f-d00e-4f92-9745-192b60522dd0")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51287,7 +51309,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/43515549-3e7b-4448-98df-51f545509983")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51579,7 +51601,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/9f9c18e7-7232-4890-80f1-210ac9acff5d")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51725,7 +51747,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/48869682-d735-40dc-b580-3af8baf461ee")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51871,7 +51893,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/438f751f-f057-43f2-8968-e14721afa57f")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52017,7 +52039,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/5cb66f32-f618-4c64-8a51-caaa28abe39f")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52187,7 +52209,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/096f3e79-97a9-480a-8ece-20e3b1e093f0")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52547,7 +52569,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/34b89521-357b-43c3-a625-1b69e60f8ac1")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52839,7 +52861,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/3a191cb2-3367-43b0-9b13-61e18c1a0bdc")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -53277,7 +53299,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/ee891ee5-4af9-4aad-af87-dfbe320b9b83")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -53712,7 +53734,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/bbba198c-6418-4fae-b3bc-8c99917d6d91")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54292,7 +54314,7 @@
 		)
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/178ad3ca-b6ef-4ed1-97e2-ca6e6a6b96e2")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54401,7 +54423,7 @@
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/888ffc74-c817-4794-8464-fdfbf736c148")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54985,7 +55007,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/bf14471e-ffb5-41b5-8590-390b7bde060e")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55349,7 +55371,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/641ab4bb-3c0c-40cf-871b-286e6c346ee6")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55625,7 +55647,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/5d9fbf62-3b0c-4033-90ac-5b546a0f5318")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55771,7 +55793,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/6916eb75-9455-4309-8f81-e7697a668fa0")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55917,7 +55939,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/e0ae65d9-65bb-4671-b387-514ff33936af")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56498,7 +56520,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/1a5dfb0a-3a23-4518-8cca-8136b99d2d2f")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56644,7 +56666,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/13bd0ffa-1197-4c38-bdb2-1eb1b94a4af2")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56790,7 +56812,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/59fe149b-6e9a-4f4e-b45b-5577a55a4136")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56960,7 +56982,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/b58248d2-8cfb-478b-b878-4ea4f2b2ce1c")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57324,7 +57346,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/1c460191-0115-4017-b84f-f527357949e1")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57749,7 +57771,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/88dbe3eb-19a6-4c9a-aee6-89ec4e0af2d9")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -58234,7 +58256,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/4be798c8-e495-4925-abc2-b48d2ad1950c")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -58594,7 +58616,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/37601be8-0094-4bbc-a66b-ef3e17a09818")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -59210,7 +59232,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/6143c2b0-57a5-482d-b562-58689d4c211f")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -59489,7 +59511,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/80d60470-a02a-4a95-839f-9c6b27b1c35c")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -59853,7 +59875,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/362683fd-fffa-4bc6-8cd4-dd35bcaf40e3")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60275,7 +60297,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/11202980-24e0-45fb-9ec9-e6fc9e808d08")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60665,7 +60687,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/9d0b8101-44b4-4f97-a7d0-7ccaea6d9c94")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60811,7 +60833,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/700fdf19-c0f0-41c8-9827-859e6f215b69")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -61103,7 +61125,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/927ca5c2-4381-4d7c-93b8-9e0b4134066c")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -61719,7 +61741,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/30167981-0369-43da-bec8-9a0b99be0324")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -61889,7 +61911,7 @@
 		)
 		(path "/0fd2c796-fc28-4dbb-a19a-be32e6f577a0/eb39d46b-d6f0-458d-b65d-e8e70f52ded4")
 		(sheetname "/Peripherals/")
-		(sheetfile "Seed3-DevKit-Desktop_2.kicad_sch")
+		(sheetfile "Peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -62249,7 +62271,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b2297a72-db37-46bb-8b2e-2b8f47454008/38dbdbe4-a170-4b4c-9a54-9c2f74c78c4c")
 		(sheetname "/Daisy/")
-		(sheetfile "Seed3-DevKit-Desktop_1.kicad_sch")
+		(sheetfile "Daisy.kicad_sch")
 		(units
 			(unit
 				(name "A")
